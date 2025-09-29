@@ -1,0 +1,5 @@
+{
+  "name": "Core Execution Engine",
+  "description": "A web-based job scheduler that simulates the execution of local command-line tasks using AI. Users can define jobs with commands and arguments, run them immediately, and monitor their status and output in a real-time dashboard.",
+  "requestFramePermissions": []
+}
